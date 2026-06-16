@@ -53,4 +53,7 @@ Per-asset sources, authors, and licenses are listed in:
 - `assets/decor/CREDITS.md`
 - `assets/props/CREDITS.md`
 
-CC-BY assets require keeping that attribution. The game code is © its author.
+CC-BY assets require keeping that attribution.
+
+**Code license:** [MIT](LICENSE).
+**Engine:** made with [Godot Engine](https://godotengine.org), used under its MIT license — see [`LICENSE.godot.txt`](LICENSE.godot.txt).
