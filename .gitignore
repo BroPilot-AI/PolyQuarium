@@ -1,0 +1,10 @@
+# Godot 4 — editor import cache (regenerated on open)
+.godot/
+
+# Claude Code / agent tooling
+.claude/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
