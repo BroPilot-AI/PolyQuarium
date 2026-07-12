@@ -1,6 +1,6 @@
 # 🐟 PolyQuarium
 
-A cozy little 3D aquarium care-sim. Keep fish happy, keep the water clean, earn coins, and grow from a humble goldfish bowl to a grand saltwater reef. No fail-spiral, no stress — just a calm tank to tend.
+A cozy little 3D aquarium care sim. Keep fish happy, keep the water clean, earn coins, and grow from a humble goldfish bowl to a grand saltwater reef. No fail spiral, no stress; just a calm tank to tend.
 
 Built in **Godot 4** with **GDScript** and free CC0 / CC-BY low-poly art.
 
